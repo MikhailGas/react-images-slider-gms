@@ -1,0 +1,14 @@
+{
+  "name": "react-images-slider-gms",
+  "version": "1.0.0",
+  "description": "react-slider",
+  "main": "Slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gasanov Mihail",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
