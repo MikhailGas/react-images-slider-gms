@@ -2,7 +2,7 @@
 
 ### Установка
 
-` npm i react-images-slider-gms
+`npm i react-images-slider-gms
 
 ### Исползование
 
